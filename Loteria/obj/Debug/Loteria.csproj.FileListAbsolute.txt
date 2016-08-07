@@ -1,0 +1,10 @@
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\bin\Debug\Loteria.exe
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\bin\Debug\Loteria.pdb
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.csprojResolveAssemblyReference.cache
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.Form1.resources
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.Properties.Resources.resources
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.csproj.GenerateResource.Cache
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.exe
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.pdb
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.Inicio.resources
+C:\Users\torre_000\Desktop\Loteria. Equipo 4\Loteria\obj\Debug\Loteria.juego.resources
